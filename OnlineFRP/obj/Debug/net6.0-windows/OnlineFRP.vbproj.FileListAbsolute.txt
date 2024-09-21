@@ -1,0 +1,6 @@
+C:\Users\uture\source\repos\OnlineFRP\OnlineFRP\obj\Debug\net6.0-windows\OnlineFRP.Form1.resources
+C:\Users\uture\source\repos\OnlineFRP\OnlineFRP\obj\Debug\net6.0-windows\OnlineFRP.vbproj.GenerateResource.cache
+C:\Users\uture\source\repos\OnlineFRP\OnlineFRP\obj\Debug\net6.0-windows\OnlineFRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uture\source\repos\OnlineFRP\OnlineFRP\obj\Debug\net6.0-windows\OnlineFRP.AssemblyInfoInputs.cache
+C:\Users\uture\source\repos\OnlineFRP\OnlineFRP\obj\Debug\net6.0-windows\OnlineFRP.AssemblyInfo.vb
+C:\Users\uture\source\repos\OnlineFRP\OnlineFRP\obj\Debug\net6.0-windows\OnlineFRP.vbproj.CoreCompileInputs.cache
